@@ -76,11 +76,11 @@ Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiOGEwMzM5NDktYzYzNS00MTVl
 
 # Tech Stacks
 
-- SQL, 
-- PowerBi Desktop,
-- Excel,
-- DAX language,
-- DAX studio (for optimizing the report).
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
 
 # PowerBI Techniques Learned
 
@@ -120,6 +120,14 @@ Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiOGEwMzM5NDktYzYzNS00MTVl
 - Distributors
 - Consumer
 
+# Soft Skills
+
+1. Stakeholders mapping analysis
+   
+2. Effective communication with stakeholders feedback and management
+
+3. Business and domain knowledge in sales,finance,marketing and supply chain
+
 # Company's Background
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
@@ -129,3 +137,7 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - Distributors
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
+
+# Project Outcome
+
+This dashboard provides insights into various business scenarios, enabling data-driven decision-making to enhance AtliQ's profitability.
